@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abhay420000
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning new thing
+- 🌱 I’m currently learning kivy and socket programming.
 - 💞️ I’m looking to collaborate on My Projects
 - 📫 How to reach me abhay_ccc(Instagram ID)
 
