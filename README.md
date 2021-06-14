@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Abhay420000
-- 👀 I’m interested in Python,C
-- 📫 How to reach me abhay_ccc(Instagram ID)
+- Hi, I’m @Abhay420000
+- I am a Programmer
+- Expert in Python(Experience since April 2018 to present)
+- I make with love for you
 
 <!---
 Abhay420000/Abhay420000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
